@@ -24,6 +24,7 @@
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
     "throttle-debounce": "^2.2.1",
+    "watchman": "^1.0.0",
     "webpack": "^4.43.0",
     "webpack-dev-middleware": "^3.7.2",
     "webpack-dev-server": "3.11.0"
@@ -37,8 +38,8 @@
     "css-loader": "^2.1.1",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-jest": "^23.13.2",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.17.1",
     "jest": "^25.5.4",
     "mini-css-extract-plugin": "^0.6.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
