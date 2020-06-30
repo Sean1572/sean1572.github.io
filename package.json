@@ -1,6 +1,9 @@
 {
   "name": "io-game-from-scratch",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
   "description": "",
   "main": "src/server/server.js",
   "scripts": {
